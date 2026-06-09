@@ -30,13 +30,13 @@ hf-api-agents-lab/
 │
 ├── notebooks/
 │   ├── 00_setup.ipynb
-│   ├── 01_huggingface_models.ipynb
-│   ├── 02_text_classification.ipynb
+│   ├── 01_hf_model_reuse.ipynb
+│   ├── 02_hf_reuse_model_for_prediction.ipynb
 │   ├── 03_openai_api.ipynb
-│   └── 04_ai_agents.ipynb
+│   └── 04_gradio_ui.ipynb
 │
 ├── requirements.txt
-├── .env.example
+├── .env
 └── README.md
 ```
 
